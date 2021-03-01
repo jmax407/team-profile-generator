@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-None-informational) ![GitHub language count](https://img.shields.io/github/languages/count/jmax407/team-profile-generator?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/jmax407/team-profile-generator?style=flat-square)
 
 # Screenshot
-![Team Profile Generator](images/screeenshot.png)
+![Team Profile Generator](images/screenshot.png)
 
 # Description
 Generate a webpage that displays my team's basic info
