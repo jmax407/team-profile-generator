@@ -35,7 +35,7 @@ Project Repository: [Team Profile Generator](https://github.com/jmax407/team-pro
 npm install inquirer 
 
 # Usage
-[Team Profile Generator](www.code.com)  
+[Team Profile Generator](https://jmax407.github.io/team-profile-generator/)  
 answer the prompt questions
 
 # Contribute 
